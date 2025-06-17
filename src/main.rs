@@ -1,0 +1,9 @@
+mod block; 
+mod utils; 
+use blockchain::Blockchain; 
+fn main() { 
+let mut blockchain = Blockchain::new(4); // Difficulty level blockchain.add_block("Block 1 Data".to_string()); 
+blockchain.add_block("Block 2 Data".to_string()); for block in blockchain.chain { 
+println!("{:?}", block); 
+} 
+} 
