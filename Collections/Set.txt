@@ -1,0 +1,16 @@
+SET is an interface part of Java Collection Framework that is used to store a collection of unique element.
+
+It doesnot allow duplicate elements. Also it does not preserve the order of element(unless TreeSet or LinkedHashSet).
+
+Common classes that implement set:
+ 1. HashSet - fast and unordered
+ 2. TreeSet - sorted set
+ 3. LinkedHashSet - ordered by insertion
+
+Common Set methods:
+
+1. add()  -- adds element if not in set
+2. remove() -- removes element form the set
+3. contains() -- checks if the set contains the element.
+4. size() -- returns the number of element.
+5. clear() -- removes all element.

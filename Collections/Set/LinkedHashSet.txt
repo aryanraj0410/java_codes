@@ -1,0 +1,9 @@
+LinkedHashSet is a collection that stores unique elements and remembers the order in which it was inserted.
+
+Create a LinkedHashSet
+
+Create a LinkedHashSet object called cars that will store strings:
+
+import java.util.LinkedHashSet; // Import the LinkedHashSet class
+
+LinkedHashSet<String> cars = new LinkedHashSet<>();

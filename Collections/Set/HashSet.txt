@@ -1,0 +1,7 @@
+HashSet is a collection of elements where every element is unique.
+
+Create a HashSet
+import java.util.HashSet; // Import the HashSet class
+
+HashSet<String> cars = new HashSet<String>();
+

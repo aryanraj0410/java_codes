@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedHashSetMain",
+            "request": "launch",
+            "mainClass": "Collections.Set.LinkedHashSetMain",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "TreeSetMain",
+            "request": "launch",
+            "mainClass": "Collections.Set.TreeSetMain",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "HashSetMain",
+            "request": "launch",
+            "mainClass": "Collections.Set.HashSetMain",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
             "name": "LinkedListMain",
             "request": "launch",
             "mainClass": "Collections.List.LinkedListMain",
