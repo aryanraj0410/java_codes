@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TreeMapMain",
+            "request": "launch",
+            "mainClass": "Collections.Map.TreeMapMain",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "HashMapMain",
+            "request": "launch",
+            "mainClass": "Collections.Map.HashMapMain",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
             "name": "LinkedHashSetMain",
             "request": "launch",
             "mainClass": "Collections.Set.LinkedHashSetMain",

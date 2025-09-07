@@ -1,0 +1,6 @@
+In the TreeMap the elements are stored in the form of Key, value pair and is orderd by the key.
+
+It is also an implementation class of the MAP interface.
+
+The keys will be stored in Ordered manner.
+

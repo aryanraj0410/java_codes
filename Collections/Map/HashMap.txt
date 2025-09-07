@@ -1,0 +1,14 @@
+HashMap is used when the items has to be soted in a key value pair.
+
+In HashMap the elements are not accessed by the index but is accessed by the key of the particular value.
+
+HashMap can have diffrent combinations:
+String key with Integer value
+String key with String value
+
+Create a HashMap
+Create a HashMap object called capitalCities that will store String keys and String values:
+
+import java.util.HashMap; // Import the HashMap class
+
+HashMap<String, String> capitalCities = new HashMap<>();

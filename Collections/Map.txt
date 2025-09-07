@@ -1,0 +1,18 @@
+Maps are used to store the key value pairs.
+
+Each key must be unique but the values can be duplicate.
+
+Common clases that implement Map:
+
+1. HashMap - fast and unordered.
+2. TreeMap - sorted by key.
+3. LinkedHashMap - orderd by insertion.
+
+
+Common Map Methods
+Method	       Description
+put()	       Adds or updates a key-value pair
+get()	       Returns the value for a given key
+remove()	   Removes the key and its value
+containsKey()	Checks if the map contains the key
+keySet()	   Returns a set of all keys
