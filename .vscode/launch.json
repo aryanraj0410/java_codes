@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedListMain",
+            "request": "launch",
+            "mainClass": "Collections.List.LinkedListMain",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListMain",
+            "request": "launch",
+            "mainClass": "Collections.List.ArrayListMain",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "LinkedList.Main",

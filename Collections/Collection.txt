@@ -1,0 +1,23 @@
+Java collection Framework is a Java.util package
+
+Java collection Framework is having a set of Interfaces(List, Set, Map) and a set of Classes(ArrayList, HashSet, HashMap,, etc)
+
+It is use to store and acess data more efficitently.
+
+Tip: Think of the Collections Framework as a toolbox.
+Interfaces like List define what tools can do, and classes like ArrayList are the actual tools that do the work.
+
+Core Interfaces in the Collections Framework
+Here are some common interfaces, along with their classes:
+
+Interface	Common Classes	                        Description
+List	    ArrayList, LinkedList	                Ordered collection that allows duplicates
+Set	        HashSet, TreeSet, LinkedHashSet	        Collection of unique elements
+Map	        HashMap, TreeMap, LinkedHashMap	        Stores key-value pairs with unique keys
+
+Uses:
+1. We can use LIST classes when we need to worry about the order, when we have duplicate values, and we need to access the elements by index.
+2. We can use SET classes when we need to store on the unique values only.
+3. We can use MAP classes when we need to store the pairs of keyes and values like name and its phone number.
+
+

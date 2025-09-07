@@ -1,0 +1,28 @@
+ArrayList is an resizable array.
+
+ArrayList is also a part of java.util package and implements List interface.
+
+The difference between a built in array and ArrayList is the built-in array cannot be modified if we have to add or remove elements
+    then we have to make a whole new array.
+    On the other hand in ArrayList we can perform whatever actions we want.
+
+**** Create an ArrayList ****
+
+We first need to import it from the util package.
+import java.util.ArrayList;
+
+**** Syntax ****
+
+ArrayList<String> cars = new ArrayList<String>();    //create and ArrayList object
+
+
+The List Interface
+Note: Sometimes you will see both List and ArrayList in Java code, like this:
+
+import java.util.List;
+import java.util.ArrayList;
+
+List<String> cars = new ArrayList<>();
+This means the variable (cars) is declared as a List (the interface), but it stores an ArrayList object (the actual list).
+
+It works the same way, but some developers prefer this style because it gives them more flexibility to change the type later.

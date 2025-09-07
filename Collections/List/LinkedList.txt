@@ -1,0 +1,26 @@
+Both are mostly same 
+
+LinkedList is a collection which can contain many objects of same type just like ArrayList.
+
+However they are built diffrent but.
+
+How ArrayList works??
+  The ArrayList have a regular array inside it. When an element is added it it placed into the array.
+
+
+How LinkedList works??
+  LinkedList stores the element in a container, this List is linked to the first container and others are linked to its next,  w
+  when a new element is add it is first added to the new container then the container is linked to other old ones.
+
+  When To Use
+Use an ArrayList for storing and accessing data, and LinkedList to manipulate data.
+
+
+**** LinkedList methods ****
+1. addFirst(); -- Add element at the beginning of the List.
+2. addLast();  -- Add element at the last.
+3. removeFirst(); -- Removes the first element of the list.
+4. removeLast(); -- Removes the last element.
+5. getFirst(); -- gets the first element.
+6. getLast(); -- gets the last element.
+

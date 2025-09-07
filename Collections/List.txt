@@ -1,0 +1,17 @@
+List is a part of collection Framework
+
+We can access elements by their index, add duplicates and maintain insertion order.
+
+Since List is and Interface, therefore we cannot directly create List object,
+We can use the Class that implement the List.
+
+1. ArrayList
+2. LinkedList
+
+We have some common List methods;
+
+1. add() -- when we need to add an element at the end.
+2. get() -- when we need to get an element at any specified position.
+3. set() -- when we need to replace an element at any specified position.
+4. remove() -- when we need to remove an element for any specified position.
+5. size() -- returns the number of elements in the List.
