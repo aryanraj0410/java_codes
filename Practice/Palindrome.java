@@ -24,7 +24,7 @@ public class Palindrome{
     public static void main(String[] args) {
         int N = 121;
         if(noPalindrome(N)){
-            System.out.println("Number is Palindrome");
+            System.out.println(N +"Number is Palindrome");
         }
         else{
             System.out.println("Number is not Plaindrome");

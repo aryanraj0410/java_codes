@@ -1,0 +1,40 @@
+Thread is like smallest execution inside a process.
+
+Java runs minimun 1 thread.
+
+But can runs many.
+Threads are specific task that runs at the sametime to improve the effectiness of the code.
+and make it more faster.
+
+
+We can create Threads by 2 ways:
+
+1. Extending a Thread class 
+    class MyThread extends Thread {
+    public void run() {
+        System.out.println("Thread is running: " + Thread.currentThread().getName());
+    }
+}
+
+2. Implenting the Runnable interface
+    class MyRunnable implements Runnable {
+    public void run() {
+        System.out.println("Thread is running: " + Thread.currentThread().getName());
+    }
+}
+
+
+
+Important Thread Methods
+
+start() → starts a new thread (calls run() internally).
+
+run() → contains the task to be executed.
+
+sleep(ms) → pause thread for given milliseconds.
+
+join() → waits for a thread to finish before continuing.
+
+getName() → gets the thread name.
+
+setName("name") → sets thread name.

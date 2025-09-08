@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExtendedThread",
+            "request": "launch",
+            "mainClass": "Threads.ExtendedThread",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "GenericCollection",
+            "request": "launch",
+            "mainClass": "Generics.GenericCollection",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "InnerGenericMethod",
+            "request": "launch",
+            "mainClass": "Generics.InnerGenericMethod",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "GenericClass",
+            "request": "launch",
+            "mainClass": "Generics.GenericClass",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "reverseInt",
+            "request": "launch",
+            "mainClass": "Practice.reverseInt",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Practice.Palindrome",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "countNumber",
+            "request": "launch",
+            "mainClass": "Practice.countNumber",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "wrapperClass",
+            "request": "launch",
+            "mainClass": "Practice.wrapperClass",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
             "name": "calculator",
             "request": "launch",
             "mainClass": "Practice.calculator",

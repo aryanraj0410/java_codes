@@ -1,0 +1,26 @@
+What is Stream API in Java?
+
+The Stream API (introduced in Java 8) is used to process collections of data (like arrays, lists, sets) in a functional style.
+
+👉 Instead of writing loops (for, while), you can use streams to perform operations like filtering, mapping, sorting, reducing, etc.
+ in a concise and readable way.
+
+📌 Key Points
+
+A Stream is not a data structure. It doesn’t store elements.
+
+It is a sequence of elements that supports pipeline operations.
+
+Operations are of two types:
+
+Intermediate Operations → return a new stream (e.g., filter(), map(), sorted()).
+
+Terminal Operations → produce result (e.g., forEach(), collect(), reduce()).
+
+📌 Stream API Workflow
+
+Create a Stream (from collection, array, or generator).
+
+Perform intermediate operations (transform/filter data).
+
+Perform terminal operation (produce result).

@@ -1,0 +1,21 @@
+A Future in Java is an interface (java.util.concurrent.Future) that represents the result of an asynchronous computation — something that may not be available yet, but will be in the future.
+
+-->>Think of it like placing an order at a restaurant:
+
+You order food (submit a task).
+
+You get a token (Future object).
+
+While food is being prepared (task running in background), you can do other things.
+
+Later, you use the token to check if your order is ready (isDone()), wait for it (get()), or even cancel it (cancel()).
+
+-->> Key Methods of Future
+
+get() → waits if necessary, then returns the result.
+
+isDone() → returns true if the task is finished.
+
+cancel(boolean mayInterruptIfRunning) → cancels the task if possible.
+
+isCancelled() → checks if task was cancelled.

@@ -1,0 +1,14 @@
+Generic in java is used for writing codes that are compatible with different data types.
+We don't need to write the codes again and again for different datatypes like int, String, double etc.
+
+Why we use??
+We use Generics for
+1. Type safety -- Catch type errors at compile time only.
+2. Code reuseablity -- We dont have to write code blocks multiple times.
+3. Avoid Type casting -- No need of manual type conversion.
+
+
+Generics can be used in methods, classes, collections.
+
+We can use bounded to limit the use of the datatype in the code.
+bounded can be implemented by using extends keyword.
