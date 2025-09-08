@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "Practice.calculator",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
             "name": "Palindrome",
             "request": "launch",
             "mainClass": "Palindrome",

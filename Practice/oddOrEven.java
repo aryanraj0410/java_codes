@@ -1,4 +1,5 @@
 //01 | Java Program To Check Given Number Is Odd Or Even
+package Practice;
 import java.util.*;
 class oddOrEven{
     public static void main(String[] args) {

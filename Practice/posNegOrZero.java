@@ -1,5 +1,5 @@
 // 04 | Java Program to Check Given Number Is Positive Negative Or Zero
-
+package Practice;
 import java.util.*;
 public class posNegOrZero {
     public static void main(String[] args) {

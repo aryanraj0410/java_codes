@@ -1,3 +1,5 @@
+package Practice;
+
 import java.util.*;
 
 public class countNumber {
@@ -17,3 +19,4 @@ public class countNumber {
     System.out.println(digits);
    }
 }
+

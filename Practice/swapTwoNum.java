@@ -1,4 +1,6 @@
 // 05 | Java Program To Swap Values Of Two Variables
+package Practice;
+
 import java.util.*;
 
 public class swapTwoNum {

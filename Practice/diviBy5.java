@@ -1,3 +1,4 @@
+package Practice;
 //03 | Java Program to Check Divisibility Of the Number
 import java.util.*;
 public class diviBy5 {

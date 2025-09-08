@@ -1,4 +1,5 @@
-//09 | Java Calculator Program Using Switch Case 
+package Practice;
+
 import java.util.*;
 
 public class calculator {

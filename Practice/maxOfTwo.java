@@ -1,4 +1,5 @@
 //02 | Java Program to Find Maximum Number Out Of Two Numbers
+package Practice;
 
 import java.util.*;
 public class maxOfTwo {
