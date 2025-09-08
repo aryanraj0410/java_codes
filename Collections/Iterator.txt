@@ -1,0 +1,10 @@
+In Java, an Iterator is an object that is used to traverse (iterate) through a collection (like ArrayList, HashSet, etc.) 
+one element at a time. It is part of the java.util package and provides methods to read, remove, and navigate elements in a collection.
+
+Important Methods in Iterator
+
+hasNext() → returns true if more elements are available.
+
+next() → returns the next element.
+
+remove() → removes the last element returned by the iterator.

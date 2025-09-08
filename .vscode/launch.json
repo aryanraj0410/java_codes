@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "reverseInt",
+            "request": "launch",
+            "mainClass": "reverseInt",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "countNumber",
+            "request": "launch",
+            "mainClass": "countNumber",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "IteratorMain",
+            "request": "launch",
+            "mainClass": "Collections.IteratorMain",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "LinkedHashMapMain",
+            "request": "launch",
+            "mainClass": "Collections.Map.LinkedHashMapMain",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
             "name": "TreeMapMain",
             "request": "launch",
             "mainClass": "Collections.Map.TreeMapMain",

@@ -1,0 +1,11 @@
+A LinkedHashMap stores keys and values, and keeps them in the same order you put them in.
+
+It is part of the java.util package and implements the Map interface.
+
+Create a LinkedHashMap
+Create a LinkedHashMap object called capitalCities that will store String keys and String values:
+
+import java.util.LinkedHashMap; // Import the LinkedHashMap class
+
+LinkedHashMap<String, String> capitalCities = new LinkedHashMap<>();
+
