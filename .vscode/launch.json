@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "Practice.factorial",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "Practice.fibonacci",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "charCount",
+            "request": "launch",
+            "mainClass": "Practice.charCount",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "cosonantVowels",
+            "request": "launch",
+            "mainClass": "Practice.cosonantVowels",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "findSmallest",
+            "request": "launch",
+            "mainClass": "Practice.findSmallest",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "findLargest",
+            "request": "launch",
+            "mainClass": "Practice.findLargest",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "stringPalindrome",
+            "request": "launch",
+            "mainClass": "Practice.stringPalindrome",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "Practice.reverseString",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
             "name": "ExtendedThread",
             "request": "launch",
             "mainClass": "Threads.ExtendedThread",
