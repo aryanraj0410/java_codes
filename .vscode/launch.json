@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "removeWhiteSpaces",
+            "request": "launch",
+            "mainClass": "Practice.removeWhiteSpaces",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
             "name": "mergeTwoSortedArray",
             "request": "launch",
             "mainClass": "Practice.mergeTwoSortedArray",
