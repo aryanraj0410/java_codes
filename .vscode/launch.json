@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverseArray",
+            "request": "launch",
+            "mainClass": "Practice.reverseArray",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "elementAtEvenOrOdd",
+            "request": "launch",
+            "mainClass": "Practice.elementAtEvenOrOdd",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "lengthOfString",
+            "request": "launch",
+            "mainClass": "Practice.lengthOfString",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "oddEvenArrayNo",
+            "request": "launch",
+            "mainClass": "Practice.oddEvenArrayNo",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "reverseWordsInString",
+            "request": "launch",
+            "mainClass": "Practice.reverseWordsInString",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "removeDuplicatesLinkedHashset",
+            "request": "launch",
+            "mainClass": "Practice.removeDuplicatesLinkedHashset",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "removeDuplicatesHashset",
+            "request": "launch",
+            "mainClass": "Practice.removeDuplicatesHashset",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "sumOfIntegers",
+            "request": "launch",
+            "mainClass": "Practice.sumOfIntegers",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "checkPrime",
+            "request": "launch",
+            "mainClass": "Practice.checkPrime",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
             "name": "factorial",
             "request": "launch",
             "mainClass": "Practice.factorial",
