@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mergeTwoSortedArray",
+            "request": "launch",
+            "mainClass": "Practice.mergeTwoSortedArray",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "commonInTwoArray",
+            "request": "launch",
+            "mainClass": "Practice.commonInTwoArray",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "missingNumber",
+            "request": "launch",
+            "mainClass": "Practice.missingNumber",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "duplicateArrayElements",
+            "request": "launch",
+            "mainClass": "Practice.duplicateArrayElements",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "secondLargestInArray",
+            "request": "launch",
+            "mainClass": "Practice.secondLargestInArray",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "IfArraySorted",
+            "request": "launch",
+            "mainClass": "Practice.IfArraySorted",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
             "name": "reverseArray",
             "request": "launch",
             "mainClass": "Practice.reverseArray",
