@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TEST",
+            "request": "launch",
+            "mainClass": "Practice.TEST",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
             "name": "binarySearch",
             "request": "launch",
             "mainClass": "Practice.binarySearch",

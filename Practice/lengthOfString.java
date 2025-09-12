@@ -3,6 +3,7 @@ package Practice;
 public class lengthOfString {
     public static void main(String[] args) {
         String str = "Aryan raj";
+        str.toLowerCase();
 
         char[] chars = str.toCharArray();
 
