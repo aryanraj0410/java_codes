@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "binarySearch",
+            "request": "launch",
+            "mainClass": "Practice.binarySearch",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "linearSearch",
+            "request": "launch",
+            "mainClass": "Practice.linearSearch",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "quickSort",
+            "request": "launch",
+            "mainClass": "Sorting.quickSort",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "Practice.selectionSort",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "Practice.bubbleSort",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "interfaceMain",
+            "request": "launch",
+            "mainClass": "Practice.interfaceMain",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Practice.main",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "Pig",
+            "request": "launch",
+            "mainClass": "Pig",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
             "name": "removeWhiteSpaces",
             "request": "launch",
             "mainClass": "Practice.removeWhiteSpaces",

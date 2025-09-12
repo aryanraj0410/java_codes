@@ -1,4 +1,5 @@
-A Future in Java is an interface (java.util.concurrent.Future) that represents the result of an asynchronous computation — something that may not be available yet, but will be in the future.
+A Future in Java is an interface (java.util.concurrent.Future) that represents the result of 
+an asynchronous computation — something that may not be available yet, but will be in the future.
 
 -->>Think of it like placing an order at a restaurant:
 

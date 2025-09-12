@@ -2,7 +2,7 @@ List is a part of collection Framework
 
 We can access elements by their index, add duplicates and maintain insertion order.
 
-Since List is and Interface, therefore we cannot directly create List object,
+Since List is an Interface, therefore we cannot directly create List object,
 We can use the Class that implement the List.
 
 1. ArrayList
