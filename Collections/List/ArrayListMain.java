@@ -2,6 +2,7 @@ package Collections.List;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.Iterator;
 
 
 public class ArrayListMain {
@@ -26,13 +27,16 @@ public class ArrayListMain {
         //System.out.println(cars.get(2));
         Collections.sort(cars);
 
-        for( String i : cars){
-            System.out.println(i);
-        }
+        // for( String i : cars){
+        //     System.out.println(i);
+        // }
 
-        for(int i = 0; i<cars.size(); i++){
-            System.out.print(cars.get(i)+" ");
-        }
+        // for(int i = 0; i<cars.size(); i++){
+        //     System.out.print(cars.get(i)+" ");
+        // }
+
+        Iterator <String> it = cars.iterator();
+        System.out.println(it.next());
         
     }
 }

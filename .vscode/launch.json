@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "Recursion.fibonacci",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "print1ToN",
+            "request": "launch",
+            "mainClass": "Recursion.print1ToN",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
+            "name": "namesNtimes",
+            "request": "launch",
+            "mainClass": "Recursion.namesNtimes",
+            "projectName": "JAVA_72d9c41b"
+        },
+        {
+            "type": "java",
             "name": "TEST",
             "request": "launch",
             "mainClass": "Practice.TEST",
